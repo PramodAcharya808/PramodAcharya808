@@ -6,6 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-Pramod.T-green)](https://extraordinary-fox-1f95cb.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
 
+### 👀Profile Visit Counter
+![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg)
+
 <!-- I'm Full Stack Solution Architect.<br>
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include,<br>Back-end development using open source technologies (NodeJs, Python, Java), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Photoshop), Server Administrator(AWS, Azure),database(MongoDB, Oracle, Mysql), CI/CD (Azure, Docker, kubernetes). -->
 
@@ -13,13 +16,11 @@ The crossover between design and programming has always been of interest to me. 
 #### I'm Full Stack Solution Architect.
 #### The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
 
-### ✅Back-end development using open source technologies such as,<br>
+### ✅Back-end development using open source technologies such as,
 	👉 Node.JS
 	👉 Python
 	👉 Java
-
-### ✅Designing (working closely with design
-
+### ✅Designing (working closely with design)
 ### ✅Front-end development
 	👉 React
 	👉 Angular14
@@ -29,7 +30,6 @@ The crossover between design and programming has always been of interest to me. 
 	👉 Javascript
 	👉 Responsive
 	👉 Photoshop
-
 ### ✅Server Administrator
 	👉 Amazon Web Service
 	👉 Microsoft Azure
@@ -38,15 +38,10 @@ The crossover between design and programming has always been of interest to me. 
 	👉 MongoDB
 	👉 Oracle
 	👉 Mysql
-
 ### ✅CI/CD
 	👉 Azure
 	👉 Docker
-	👉 Kubern
-
-
-### 👀Profile Visit Counter
-![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg)
+	👉 Kubernetes
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
