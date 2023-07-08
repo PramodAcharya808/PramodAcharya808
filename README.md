@@ -13,35 +13,21 @@
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include,<br>Back-end development using open source technologies (NodeJs, Python, Java), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Photoshop), Server Administrator(AWS, Azure),database(MongoDB, Oracle, Mysql), CI/CD (Azure, Docker, kubernetes). -->
 
 
-#### I'm Full Stack Solution Architect.
+### I'm Full Stack Solution Architect.
 #### The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
 
-### ✅Back-end development using open source technologies such as,
-	👉 Node.JS
-	👉 Python
-	👉 Java
-### ✅Designing (working closely with design)
-### ✅Front-end development
-	👉 React
-	👉 Angular14
-	👉 ReactJs
-	👉 HTML5
-	👉 CSS3
-	👉 Javascript
-	👉 Responsive
-	👉 Photoshop
-### ✅Server Administrator
-	👉 Amazon Web Service
-	👉 Microsoft Azure
+#### ✅Back-end development using open source technologies such as,
+	👉 Node.JS 👉 Python 👉 Java
+<!-- #### ✅Designing (working closely with design) -->
+#### ✅Front-end development
+	👉 React 👉 Angular14 👉 ReactJs 👉 HTML5 👉 CSS3 👉 Javascript 👉 Responsive 👉 Photoshop
+#### ✅Server Administrator
+	👉 Amazon Web Service 👉 Microsoft Azure
 
-### ✅Database
-	👉 MongoDB
-	👉 Oracle
-	👉 Mysql
+#### ✅Database
+	👉 MongoDB 👉 Oracle 👉 Mysql 
 ### ✅CI/CD
-	👉 Azure
-	👉 Docker
-	👉 Kubernetes
+	👉 Azure 👉 Docker 👉 Kubernetes
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
