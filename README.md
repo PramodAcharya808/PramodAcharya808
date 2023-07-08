@@ -10,38 +10,39 @@
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include,<br>Back-end development using open source technologies (NodeJs, Python, Java), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Photoshop), Server Administrator(AWS, Azure),database(MongoDB, Oracle, Mysql), CI/CD (Azure, Docker, kubernetes). -->
 
 
-I'm Full Stack Solution Architect.<br>
-The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
->Back-end development using open source technologies such as,<br>
->>	Node.JS<br>
->>	Python<br>
->>	Java<br>
+#### I'm Full Stack Solution Architect.
+#### The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
 
->Designing (working closely with designers)<br>
+### ✅Back-end development using open source technologies such as,<br>
+	👉 Node.JS
+	👉 Python
+	👉 Java
 
->Front-end development<br>
->>	React<br>
->>	Angular14<br>
->>	ReactJs<br>
->>	HTML5<br>
->>	CSS3<br>
->>	Javascript<br>
->>	Responsive<br>
->>	Photoshop<br>
+Designing (working closely with designers)<br>
 
->Server Administrator<br>
->>	Amazon Web Service<br>
->>	Microsoft Azure<br>
+Front-end development<br>
+	React<br>
+	Angular14<br>
+	ReactJs<br>
+	HTML5<br>
+	CSS3<br>
+	Javascript<br>
+	Responsive<br>
+	Photoshop<br>
 
->Database<br>
->>	MongoDB<br>
->>	Oracle<br>
->>	Mysql<br>
+Server Administrator<br>
+	Amazon Web Service<br>
+	Microsoft Azure<br>
 
->CI/CD<br>
->>	Azure<br>
->>	Docker<br>
->>	Kubernetes
+Database<br>
+	MongoDB<br>
+	Oracle<br>
+	Mysql<br>
+
+CI/CD<br>
+	Azure<br>
+	Docker<br>
+	Kubernetes
 
 
 
@@ -161,5 +162,6 @@ Languages and Tools:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pramodacharya808&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodacharya808&theme=default" alt="pramodacharya808" /></p>
 </details>
 <br/>
