@@ -18,34 +18,34 @@ The crossover between design and programming has always been of interest to me. 
 	👉 Python
 	👉 Java
 
-Designing (working closely with designers)<br>
+### ✅Designing (working closely with design
 
-Front-end development<br>
-	React<br>
-	Angular14<br>
-	ReactJs<br>
-	HTML5<br>
-	CSS3<br>
-	Javascript<br>
-	Responsive<br>
-	Photoshop<br>
+### ✅Front-end development
+	👉 React
+	👉 Angular14
+	👉 ReactJs
+	👉 HTML5
+	👉 CSS3
+	👉 Javascript
+	👉 Responsive
+	👉 Photoshop
 
-Server Administrator<br>
-	Amazon Web Service<br>
-	Microsoft Azure<br>
+### ✅Server Administrator
+	👉 Amazon Web Service
+	👉 Microsoft Azure
 
-Database<br>
-	MongoDB<br>
-	Oracle<br>
-	Mysql<br>
+### ✅Database
+	👉 MongoDB
+	👉 Oracle
+	👉 Mysql
 
-CI/CD<br>
-	Azure<br>
-	Docker<br>
-	Kubernetes
+### ✅CI/CD
+	👉 Azure
+	👉 Docker
+	👉 Kubern
 
 
-
+### 👀Profile Visit Counter
 ![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg)
 
 <div>
@@ -55,7 +55,7 @@ CI/CD<br>
   </a>
 </div>
 
-Languages and Tools: 
+### Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
