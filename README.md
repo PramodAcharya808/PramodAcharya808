@@ -9,8 +9,9 @@
 
 ### 👀Profile Visit Counter
 
-![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg)
-<!-- ![](https://komarev.com/ghpvc/?username=pramodacharya808) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg) -->
+![](https://komarev.com/ghpvc/?username=pramodacharya808)
+
 
 <!-- I'm Full Stack Solution Architect.<br>
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include,<br>Back-end development using open source technologies (NodeJs, Python, Java), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Photoshop), Server Administrator(AWS, Azure),database(MongoDB, Oracle, Mysql), CI/CD (Azure, Docker, kubernetes). -->
