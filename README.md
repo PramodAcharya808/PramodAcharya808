@@ -159,6 +159,11 @@ The crossover between design and programming has always been of interest to me. 
     
 <!-- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /> -->
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodacharya808&theme=default" alt="pramodacharya808" /></p>
 </details>
 <br/>
