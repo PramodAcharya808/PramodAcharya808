@@ -7,7 +7,11 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-Pramod.T-green)](https://extraordinary-fox-1f95cb.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
 
+
+<span style="float: right; margin-left: 20px;">
 <a href="https://app.daily.dev/pramodacharya808"><img src="https://github.com/PramodAcharya808/PramodAcharya808/blob/master/devcard.svg" width="220" alt="Pramod Achary's Dev Card"/></a>
+</span>
+
 
 ### 👀Profile Visit Counter
 
@@ -21,7 +25,7 @@ The crossover between design and programming has always been of interest to me. 
 
 ### I'm Full Stack Solution Architect.
 
-#### The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
+The crossover between design and programming has always been of interest to me. I have a strong background in full stack development and expertise in cloud computing with wide range of skills that includes,
 
 #### ✅Back-end development using open source technologies such as,
 
