@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-Pramod.T-green)](https://extraordinary-fox-1f95cb.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
 
-                        - @Daily.dev Profile Stats -
+> Daily.dev Profile Stats
 
 <a href="https://app.daily.dev/pramodacharya808"><img src="https://github.com/PramodAcharya808/PramodAcharya808/blob/master/devcard.svg" width="220" alt="Pramod Achary's Dev Card"/></a>
 
