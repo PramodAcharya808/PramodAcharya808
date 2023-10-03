@@ -7,6 +7,9 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-Pramod.T-green)](https://extraordinary-fox-1f95cb.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
 
+<span>
+<a href="https://app.daily.dev/pramodacharya808"><img src="https://api.daily.dev/devcards/bdad538dd2b14571895c6de2970584b8.png?r=x02" width="220" alt="Pramod T's Dev Card"/></a></span>
+
 ### 👀Profile Visit Counter
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg) -->
@@ -15,6 +18,7 @@
 
 <!-- I'm Full Stack Solution Architect.<br>
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include,<br>Back-end development using open source technologies (NodeJs, Python, Java), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Photoshop), Server Administrator(AWS, Azure),database(MongoDB, Oracle, Mysql), CI/CD (Azure, Docker, kubernetes). -->
+
 
 ### I'm Full Stack Solution Architect.
 
