@@ -8,10 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
 
 
-<span style="float: right; margin-left: 20px;">
-<a href="https://app.daily.dev/pramodacharya808"><img src="https://github.com/PramodAcharya808/PramodAcharya808/blob/master/devcard.svg" width="220" alt="Pramod Achary's Dev Card"/></a>
-</span>
-
+<a href="https://app.daily.dev/pramodacharya808"><img src="https://github.com/PramodAcharya808/PramodAcharya808/blob/master/devcard.svg" width="220" alt="Pramod Achary's Dev Card" style="float: right; margin-left: 20px;"/></a>
 
 ### 👀Profile Visit Counter
 
