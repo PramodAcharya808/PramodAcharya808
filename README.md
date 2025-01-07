@@ -2,12 +2,6 @@
 
 ### ✨ Building digital dreams with code ✨
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-ClubEpicGaming-red)](https://www.youtube.com/CLUBEPICGAMING)
-[![Linkedin Badge](https://img.shields.io/badge/-Pramod.T-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pramodacharya/)](https://www.linkedin.com/in/pramodacharya/)
-[![Website Badge](https://img.shields.io/badge/Portfolio-Pramod.T-green)](https://extraordinary-fox-1f95cb.netlify.app/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Pramod-yellow)](https://stackoverflow.com/users/16394192/pramod-)
-
-
 ### 👀Profile Visit Counter
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/pramodacharya808/count.svg) -->
