@@ -19,41 +19,51 @@
 
 <div align="center">
 
-<table>
+<table width="100%" style="text-align:center; border-collapse:collapse;">
   <tr>
-    <th>👨‍💻 Frontend</th>
-    <th>🔙 Backend</th>
-    <th>☁️ Cloud & DevOps</th>
-    <th>🧠 AI & LLMs</th>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td>
-      <ul>
-        <li>React.js / Next.js / Angular</li>
-        <li>HTML5 / CSS3 / JavaScript / TypeScript</li>
-        <li>TailwindCSS / Bootstrap / Figma</li>
-      </ul>
+      <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <ul>
-        <li>Node.js / Express.js</li>
-        <li>RESTful APIs / GraphQL</li>
-        <li>MongoDB / MySQL / PostgreSQL / Firebase</li>
-      </ul>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <ul>
-        <li>AWS (EC2, S3, Lambda, API Gateway)</li>
-        <li>Azure</li>
-        <li>GitHub Actions / Terraform / Docker / Kubernetes</li>
-      </ul>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LLaMA-AI-blueviolet?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Fine--Tuning-orange?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/RAG-green?style=for-the-badge" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <ul>
-        <li>OpenAI (GPT-4, GPT-3.5) / Claude / LLaMA / Gemini</li>
-        <li>Fine-tuning / Prompt Engineering / RAG</li>
-        <li>Lovable.ai / Firebase Studio / Cursor.ai / Windsurf</li>
-      </ul>
+      <img src="https://img.shields.io/badge/Lovable.ai-red?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cursor.ai-purple?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Windsurf-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Firebase_Studio-yellow?style=for-the-badge" />
     </td>
   </tr>
 </table>
