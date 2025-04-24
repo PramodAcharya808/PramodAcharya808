@@ -1,73 +1,105 @@
-## 👋 Hi there! I'm Pramod Acharya
+<div align="center">
+
+# 👋 Hi there! I'm <span style="color:#f97316; font-weight:bold;">Pramod Acharya</span>
 
 ### 🚀 Turning Code into Impactful Products | AI x Cloud x Full Stack
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=pramodacharya808)
+![Visitor Badge](https://komarev.com/ghpvc/?username=pramodacharya808&style=for-the-badge&color=0e75b6&label=Profile+Views)
+
+</div>
 
 ---
 
-### 🧠 About Me
-I'm a Full Stack Solution Architect passionate about building scalable, AI-driven web apps and tools. With hands-on experience across MERN, DevOps, and AI ecosystems, I specialize in crafting solutions that blend usability, performance, and intelligence.
+## 🧠 About Me
+🎯 I'm a **Full Stack Solution Architect** passionate about crafting scalable, AI-powered applications. With deep expertise in the **MERN stack**, **DevOps**, and **AI tools**, I focus on creating high-performance systems that blend seamless UX with robust backend and intelligent automation.
 
 ---
 
-### 💼 Tech Expertise
+## 🔧 Tech Toolbox & Specializations
 
-#### 🌐 Frontend
-- React.js, Next.js, Angular
-- HTML5, CSS3, JavaScript, TypeScript
-- TailwindCSS, Bootstrap, Figma
+<div align="center">
 
-#### ⚙️ Backend
-- Node.js, Express.js, RESTful APIs
-- MongoDB, Mongoose, MySQL, PostgreSQL
-- Firebase, GraphQL
+<table>
+  <tr>
+    <th>👨‍💻 Frontend</th>
+    <th>🔙 Backend</th>
+    <th>☁️ Cloud & DevOps</th>
+    <th>🧠 AI & LLMs</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>React.js / Next.js / Angular</li>
+        <li>HTML5 / CSS3 / JavaScript / TypeScript</li>
+        <li>TailwindCSS / Bootstrap / Figma</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Node.js / Express.js</li>
+        <li>RESTful APIs / GraphQL</li>
+        <li>MongoDB / MySQL / PostgreSQL / Firebase</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>AWS (EC2, S3, Lambda, API Gateway)</li>
+        <li>Azure</li>
+        <li>GitHub Actions / Terraform / Docker / Kubernetes</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>OpenAI (GPT-4, GPT-3.5) / Claude / LLaMA / Gemini</li>
+        <li>Fine-tuning / Prompt Engineering / RAG</li>
+        <li>Lovable.ai / Firebase Studio / Cursor.ai / Windsurf</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### ☁️ Cloud & DevOps
-- AWS (EC2, S3, API Gateway, Lambda)
-- Azure
-- GitHub Actions, Terraform, Docker, Kubernetes
-
-#### 🤖 AI & LLMs
-- OpenAI SDK, GPT-4, GPT-3.5
-- LLaMA, Claude, Gemini (PaLM)
-- Retrieval-Augmented Generation (RAG), Fine-tuning
-- Lovable.ai, Cursor.ai, Firebase Studio, Windsurf
-
-#### 📦 Tools & Utilities
-- Git, GitHub, Postman, Swagger
-- Grafana, Jenkins, Redis
-- Linux, Bash, Webpack, VS Code
-
----
-
-### 📊 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&hide=css,scss&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramodacharya808&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=github-compact)
-
----
-
-### ✨ Current Focus
-- Building AI-driven financial assistants & web extensions
-- Fine-tuning LLMs for enterprise solutions
-- Integrating multi-cloud infrastructure & monitoring
+</div>
 
 ---
 
-### 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pramodacharya808)
-- [Portfolio](https://codeelevate.tech)
-- [GitHub](https://github.com/pramodacharya808)
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&hide=css,scss&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodacharya808&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=github-compact" />
+</p>
 
 ---
 
-### 🧩 Fun Fact
-When I'm not debugging backend services or tuning AI prompts, I'm probably exploring new productivity tools or building tools for devs ✨
+## 🧩 Current Focus
+
+- 🚀 Building AI-driven financial assistants & extensions
+- 🧠 Fine-tuning LLMs for domain-specific applications
+- ☁️ Scaling multi-cloud infrastructure with monitoring & alerting
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pramodacharya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://pramodacharya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://github.com/pramodacharya808"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ✨ Fun Fact
+> When I'm not building full-stack or AI-based systems, I love exploring new dev tools and automating workflows that save time and boost productivity.
