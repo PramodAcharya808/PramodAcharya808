@@ -80,8 +80,8 @@
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&theme=radical&hide=css,scss)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pramodacharya808&theme=radical)
+<!-- Contribution Graph as a streak alternative -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=tokyo-night)
 
 <!-- GitHub Trophy -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&margin-w=10&column=7)
