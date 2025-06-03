@@ -11,6 +11,7 @@
 ---
 
 ## 🧠 About Me
+
 🎯 I'm a **Full Stack Solution Architect** passionate about crafting scalable, AI-powered applications. With deep expertise in the **MERN stack**, **DevOps**, and **AI tools**, I focus on creating high-performance systems that blend seamless UX with robust backend and intelligent automation.
 
 ---
@@ -75,20 +76,22 @@
 ## 📊 GitHub Insights
 
 <!-- GitHub Stats -->
+
 ![Pramod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical&rank_icon=github)
 
 <!-- Most Used Languages -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&theme=radical&hide=css,scss)
 
 <!-- Contribution Graph as a streak alternative -->
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=tokyo-night)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pramodacharya808&theme=radical" alt="GitHub Streak" />
+
 <!-- GitHub Trophy -->
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&margin-w=10&column=7)
-
-<!-- Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=github-compact)
-
 
 ---
 
@@ -111,4 +114,5 @@
 ---
 
 ## ✨ Fun Fact
+
 > When I'm not building full-stack or AI-based systems, I love exploring new dev tools and automating workflows that save time and boost productivity.
