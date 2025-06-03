@@ -74,22 +74,21 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&hide=css,scss&theme=radical" height="170" />
-</p>
+<!-- GitHub Stats -->
+![Pramod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodacharya808&show_icons=true&theme=radical&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodacharya808&theme=radical" height="170" />
-</p>
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodacharya808&layout=compact&theme=radical&hide=css,scss)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&column=7" />
-</p>
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pramodacharya808&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=github-compact" />
-</p>
+<!-- GitHub Trophy -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=pramodacharya808&theme=radical&margin-w=10&column=7)
+
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodacharya808&theme=github-compact)
+
 
 ---
 
